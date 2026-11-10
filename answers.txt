@@ -1,0 +1,32 @@
+# Exercise: Read the Logbook
+#
+# Read the files in the station folder with cat and less, check them with file, and use
+# --help, man and type to answer the rest. Write each answer on its numbered line, after
+# the ")". Write only the answer, like the example.
+#
+# Example: what is the name of the station? (notice.txt says so in its first line.)
+# 0) Gull Rock
+
+# 1. Read notice.txt in the station folder. Who wrote it? (Write the name only.)
+1)
+
+# 2. On what date does the logbook first mention a whale? (Write it as the logbook does, such as March 3.)
+2)
+
+# 3. On what date does the logbook mention a whale for the last time?
+3)
+
+# 4. What is the date of the very last entry in the logbook?
+4)
+
+# 5. How many lines long is logbook.txt? (Getting Help shows a command that counts them.)
+5)
+
+# 6. One file in station/supplies isn't text, whatever its name says. Which file? (Write its name.)
+6)
+
+# 7. head is a command you haven't met yet. Read its manual page: which option sets how many lines it prints? (Write the option, such as -x.)
+7)
+
+# 8. One of these has no manual page of its own on Ubuntu, because it's built into the shell: cat, less, file, history. Which one?
+8)

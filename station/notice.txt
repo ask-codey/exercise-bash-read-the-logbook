@@ -1,0 +1,16 @@
+GULL ROCK LIGHT STATION
+Notice to the new keeper
+
+Welcome to Gull Rock. The station's logbook is in logbook.txt.
+Every keeper writes a few lines a day: the weather, when the lamp
+was lit, and anything unusual out on the water.
+
+The logbook is long, so don't try to read it with cat. Open it
+with less, and search it with / when you're looking for something.
+
+The supplies folder has the orders and the charts. One of those
+files isn't text, whatever its name says, so check before you open it.
+
+Good luck, and keep the light burning.
+
+- Ruth Halloran, keeper

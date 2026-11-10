@@ -1,0 +1,2 @@
+Spare wicks in the store room: 9
+Order more when there are fewer than 5.
